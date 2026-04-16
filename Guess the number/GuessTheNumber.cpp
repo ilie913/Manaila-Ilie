@@ -22,7 +22,7 @@ int main(){
 
         cout<<"Correct, the number was"<<" "<<randomNum<<endl;
         return 0;
-        } 
+        }
 
         else if(guess<randomNum) {
         cout<<"Too low! Try higher!"<<endl;
